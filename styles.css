@@ -12,7 +12,20 @@ body {
 }
 
 /* Agrega tus estilos aquí */
-/* Agregar en styles.css */
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+#game-container {
+  width: 800px;
+  height: 600px;
+  margin: 40px auto;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+/* Nuevo código CSS */
 
 #game-background {
   position: absolute;
